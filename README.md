@@ -127,3 +127,23 @@ ORDER BY Total_Orders ASC;
 
 
 
+
+
+
+![WhatsApp Image 2023-09-08 at 2 20 17 AM](https://github.com/prashant9621/Pizza_sales/assets/136049491/bea5ded8-b10b-4251-a4db-04a086358f55)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

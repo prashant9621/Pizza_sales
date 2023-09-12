@@ -149,6 +149,15 @@ GROUP BY pizza_name
 ORDER BY Total_Orders ASC;
 
 
+Power BI Dashboard
+
+
+
+
+
+![Screenshot_2023-09-08-14-42-52-13](https://github.com/prashant9621/Pizza_sales/assets/136049491/e6c84b1d-ba4c-48aa-9744-dcee99dc6ef6)
+
+
 
 
 

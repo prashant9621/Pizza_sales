@@ -150,6 +150,7 @@ ORDER BY Total_Orders ASC;
 
 
 Power BI Dashboard
+![Screenshot_2023-09-08-14-44-11-17](https://github.com/prashant9621/Pizza_sales/assets/136049491/c9ffbede-dff2-494d-8057-8b5da118a012)
 
 
 
